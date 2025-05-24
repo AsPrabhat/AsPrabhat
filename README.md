@@ -73,7 +73,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=asprabhat&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Prabhat's GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asprabhat&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asprabhat&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
   </a>
 </p>
 <!-- You can also add GitHub Streak Stats:
