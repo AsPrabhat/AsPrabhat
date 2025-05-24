@@ -33,29 +33,36 @@
 ---
 
 ### 🚀 My Projects:
-<!-- **THIS IS THE MOST IMPORTANT SECTION TO FILL OUT** -->
-<!-- For each project, include: Name, Link to Repo, (Optional) Live Demo Link, Brief Description, Technologies Used -->
-<!-- Example Project:
 <p>
-  <strong>Project Name 1</strong> - <a href="[LINK_TO_REPO]" target="_blank">GitHub Repo</a> | <a href="[LINK_TO_LIVE_DEMO_IF_ANY]" target="_blank">Live Demo</a>
+  <strong>Isolated Digit Recognition System</strong> - <a href="https://github.com/AsPrabhat/Isolated-Digit-Recognition-System" target="_blank">GitHub Repo</a>
   <br>
-  <em>A brief one-sentence description of what the project does and its purpose.</em>
+  <em>A project focused on recognizing isolated spoken digits.</em>
   <br>
-  <sub><strong>Tech Stack:</strong> C++, Python, CMake, etc.</sub>
+  <sub><strong>Tech Stack:</strong> [e.g., Python, LibROSA, Scikit-learn, MFCCs]</sub>
 </p>
 <hr/>
 <p>
-  <strong>Project Name 2</strong> - <a href="[LINK_TO_REPO]" target="_blank">GitHub Repo</a>
+  <strong>KNN Advanced Project</strong> - <a href="https://github.com/AsPrabhat/KNN-Advanced-Project" target="_blank">GitHub Repo</a>
   <br>
-  <em>Another cool project I built to solve [problem] using [key features].</em>
+  <em>An advanced implementation or exploration of the K-Nearest Neighbors algorithm.</em>
   <br>
-  <sub><strong>Tech Stack:</strong> Java, Spring Boot, Docker, etc.</sub>
+  <sub><strong>Tech Stack:</strong> [e.g., Python, NumPy, Pandas, Scikit-learn]</sub>
 </p>
 <hr/>
--->
-<p align="center">
-  <em>My pinned repositories below showcase some of my work! More to come...</em>
-  <!-- You can add 2-3 top projects directly here for more visibility -->
+<p>
+  <strong>xv6-riscv</strong> - <a href="https://github.com/AsPrabhat/xv6-riscv" target="_blank">GitHub Repo</a>
+  <br>
+  <em>Modifications or assignments related to the xv6 operating system on the RISC-V architecture.</em>
+  <br>
+  <sub><strong>Tech Stack:</strong> C, RISC-V Assembly, QEMU</sub>
+</p>
+<hr/>
+<p>
+  <strong>Threading</strong> - <a href="https://github.com/AsPrabhat/Threading" target="_blank">GitHub Repo</a>
+  <br>
+  <em>A project exploring or implementing multithreading concepts.</em>
+  <br>
+  <sub><strong>Tech Stack:</strong> [e.g., C++, Pthreads, Java Threads, Python threading]</sub>
 </p>
 
 ---
